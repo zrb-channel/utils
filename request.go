@@ -3,7 +3,7 @@ package utils
 import (
 	"context"
 
-	resty "github.com/go-resty/resty/v2"
+	"github.com/go-resty/resty/v2"
 )
 
 var (
